@@ -1,0 +1,15 @@
+..\app\lt8900.c
+..\app\lt8900.h
+..\chip\inc\stm8_spi.h
+..\chip\inc\stm8_uart.h
+..\chip\src\stm8_spi.c
+..\chip\src\stm8_uart.c
+main.c
+stm8_interrupt_vector.c
+stm8s103f.h
+..\system\delay\delay.c
+..\system\delay\delay.h
+..\system\sys\sys.c
+..\system\sys\sys.h
+d:\program files (x86)\cosmic\cxstm8\hstm8\mods0.h
+d:\program files (x86)\cosmic\cxstm8\hstm8\stdio.h

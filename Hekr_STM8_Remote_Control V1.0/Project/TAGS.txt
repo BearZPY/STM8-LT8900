@@ -1,0 +1,269 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACK	..\app\lt8900.h	9;"	macro
+BUFSIZ	d:\program files (x86)\cosmic\cxstm8\hstm8\stdio.h	26;"	macro
+DEF_16BIT_REG_AT	stm8s103f.h	20;"	macro
+DEF_16BIT_REG_AT	stm8s103f.h	25;"	macro
+DEF_8BIT_REG_AT	stm8s103f.h	19;"	macro
+DEF_8BIT_REG_AT	stm8s103f.h	24;"	macro
+Date_Handler	main.c	23;"	prototype	file:	signature:(void)
+Date_Handler	main.c	81;"	function	signature:(void)
+EOF	d:\program files (x86)\cosmic\cxstm8\hstm8\stdio.h	27;"	macro
+Halt_Handler	main.c	21;"	prototype	file:	signature:(void)
+Halt_Handler	main.c	45;"	function	signature:(void)
+IDLE	..\app\lt8900.h	4;"	macro
+LT8900_Config	..\app\lt8900.c	111;"	function	signature:(void)
+LT8900_Config	..\app\lt8900.h	23;"	prototype	signature:(void)
+LT8900_PKT	..\app\lt8900.h	15;"	macro
+LT8900_Pin_init	..\app\lt8900.c	62;"	function	signature:(void)
+LT8900_Pin_init	..\app\lt8900.h	22;"	prototype	signature:(void)
+LT8900_READ	..\app\lt8900.h	14;"	macro
+LT8900_RST	..\app\lt8900.h	16;"	macro
+LT8900_Read_REG	..\app\lt8900.c	74;"	function	signature:(unsigned char reg)
+LT8900_Read_REG	..\app\lt8900.h	20;"	prototype	signature:(unsigned char reg)
+LT8900_Recv_Buffer	..\app\lt8900.c	7;"	variable
+LT8900_Recv_Data	..\app\lt8900.c	127;"	function	signature:(void)
+LT8900_Recv_Data	..\app\lt8900.h	25;"	prototype	signature:(void)
+LT8900_Recv_Len	..\app\lt8900.c	8;"	variable
+LT8900_Send_Buffer	..\app\lt8900.c	9;"	variable
+LT8900_Send_Date	..\app\lt8900.c	95;"	function	signature:(void)
+LT8900_Send_Date	..\app\lt8900.h	24;"	prototype	signature:(void)
+LT8900_Send_Len	..\app\lt8900.c	10;"	variable
+LT8900_Set_Recv_Mode	..\app\lt8900.c	118;"	function	signature:(void)
+LT8900_Set_Recv_Mode	..\app\lt8900.h	26;"	prototype	signature:(void)
+LT8900_WRITE	..\app\lt8900.h	13;"	macro
+LT8900_Write_REG	..\app\lt8900.c	86;"	function	signature:(unsigned char reg, unsigned char byteH, unsigned char byteL)
+LT8900_Write_REG	..\app\lt8900.h	21;"	prototype	signature:(unsigned char reg, unsigned char byteH, unsigned char byteL)
+LT8900_init	..\app\lt8900.c	12;"	function	signature:(void)
+LT8900_init	..\app\lt8900.h	19;"	prototype	signature:(void)
+MAXSize	..\app\lt8900.h	11;"	macro
+NO_CHANGE	..\app\lt8900.h	10;"	macro
+NULL	d:\program files (x86)\cosmic\cxstm8\hstm8\stdio.h	28;"	macro
+NonHandledInterrupt	stm8_interrupt_vector.c	12;"	function	signature:(void)
+PA_CR1	..\system\sys\sys.h	101;"	variable
+PA_CR1	..\system\sys\sys.h	105;"	variable
+PA_CR1	..\system\sys\sys.h	109;"	variable
+PA_CR1	..\system\sys\sys.h	113;"	variable
+PA_CR1	..\system\sys\sys.h	117;"	variable
+PA_CR1	..\system\sys\sys.h	121;"	variable
+PA_CR1	..\system\sys\sys.h	97;"	variable
+PA_CR2	..\system\sys\sys.h	102;"	variable
+PA_CR2	..\system\sys\sys.h	106;"	variable
+PA_CR2	..\system\sys\sys.h	110;"	variable
+PA_CR2	..\system\sys\sys.h	114;"	variable
+PA_CR2	..\system\sys\sys.h	118;"	variable
+PA_CR2	..\system\sys\sys.h	122;"	variable
+PA_CR2	..\system\sys\sys.h	98;"	variable
+PA_DDR	..\system\sys\sys.h	100;"	variable
+PA_DDR	..\system\sys\sys.h	104;"	variable
+PA_DDR	..\system\sys\sys.h	108;"	variable
+PA_DDR	..\system\sys\sys.h	112;"	variable
+PA_DDR	..\system\sys\sys.h	116;"	variable
+PA_DDR	..\system\sys\sys.h	120;"	variable
+PA_DDR	..\system\sys\sys.h	96;"	variable
+PA_IDR	..\system\sys\sys.h	57;"	variable
+PA_IDR	..\system\sys\sys.h	58;"	variable
+PA_IDR	..\system\sys\sys.h	59;"	variable
+PA_IDR	..\system\sys\sys.h	60;"	variable
+PA_IDR	..\system\sys\sys.h	61;"	variable
+PA_IDR	..\system\sys\sys.h	62;"	variable
+PA_IDR	..\system\sys\sys.h	63;"	variable
+PA_IDR	..\system\sys\sys.h	64;"	variable
+PA_IRQHandler	main.c	103;"	function	signature:(void)
+PA_IRQHandler	stm8_interrupt_vector.c	21;"	prototype	file:	signature:(void)
+PA_Lock	main.c	20;"	variable
+PA_ODR	..\system\sys\sys.h	20;"	variable
+PA_ODR	..\system\sys\sys.h	21;"	variable
+PA_ODR	..\system\sys\sys.h	22;"	variable
+PA_ODR	..\system\sys\sys.h	23;"	variable
+PA_ODR	..\system\sys\sys.h	24;"	variable
+PA_ODR	..\system\sys\sys.h	25;"	variable
+PA_ODR	..\system\sys\sys.h	26;"	variable
+PA_ODR	..\system\sys\sys.h	27;"	variable
+PA_temp	main.c	19;"	variable
+PB_CR1	..\system\sys\sys.h	127;"	variable
+PB_CR1	..\system\sys\sys.h	131;"	variable
+PB_CR1	..\system\sys\sys.h	135;"	variable
+PB_CR1	..\system\sys\sys.h	139;"	variable
+PB_CR1	..\system\sys\sys.h	143;"	variable
+PB_CR1	..\system\sys\sys.h	147;"	variable
+PB_CR1	..\system\sys\sys.h	151;"	variable
+PB_CR2	..\system\sys\sys.h	128;"	variable
+PB_CR2	..\system\sys\sys.h	132;"	variable
+PB_CR2	..\system\sys\sys.h	136;"	variable
+PB_CR2	..\system\sys\sys.h	140;"	variable
+PB_CR2	..\system\sys\sys.h	144;"	variable
+PB_CR2	..\system\sys\sys.h	148;"	variable
+PB_CR2	..\system\sys\sys.h	152;"	variable
+PB_DDR	..\system\sys\sys.h	126;"	variable
+PB_DDR	..\system\sys\sys.h	130;"	variable
+PB_DDR	..\system\sys\sys.h	134;"	variable
+PB_DDR	..\system\sys\sys.h	138;"	variable
+PB_DDR	..\system\sys\sys.h	142;"	variable
+PB_DDR	..\system\sys\sys.h	146;"	variable
+PB_DDR	..\system\sys\sys.h	150;"	variable
+PB_IDR	..\system\sys\sys.h	66;"	variable
+PB_IDR	..\system\sys\sys.h	67;"	variable
+PB_IDR	..\system\sys\sys.h	68;"	variable
+PB_IDR	..\system\sys\sys.h	69;"	variable
+PB_IDR	..\system\sys\sys.h	70;"	variable
+PB_IDR	..\system\sys\sys.h	71;"	variable
+PB_IDR	..\system\sys\sys.h	72;"	variable
+PB_IDR	..\system\sys\sys.h	73;"	variable
+PB_ODR	..\system\sys\sys.h	29;"	variable
+PB_ODR	..\system\sys\sys.h	30;"	variable
+PB_ODR	..\system\sys\sys.h	31;"	variable
+PB_ODR	..\system\sys\sys.h	32;"	variable
+PB_ODR	..\system\sys\sys.h	33;"	variable
+PB_ODR	..\system\sys\sys.h	34;"	variable
+PB_ODR	..\system\sys\sys.h	35;"	variable
+PB_ODR	..\system\sys\sys.h	36;"	variable
+PC_CR1	..\system\sys\sys.h	156;"	variable
+PC_CR1	..\system\sys\sys.h	160;"	variable
+PC_CR1	..\system\sys\sys.h	164;"	variable
+PC_CR1	..\system\sys\sys.h	168;"	variable
+PC_CR1	..\system\sys\sys.h	172;"	variable
+PC_CR1	..\system\sys\sys.h	176;"	variable
+PC_CR1	..\system\sys\sys.h	180;"	variable
+PC_CR2	..\system\sys\sys.h	157;"	variable
+PC_CR2	..\system\sys\sys.h	161;"	variable
+PC_CR2	..\system\sys\sys.h	165;"	variable
+PC_CR2	..\system\sys\sys.h	169;"	variable
+PC_CR2	..\system\sys\sys.h	173;"	variable
+PC_CR2	..\system\sys\sys.h	177;"	variable
+PC_CR2	..\system\sys\sys.h	181;"	variable
+PC_DDR	..\system\sys\sys.h	155;"	variable
+PC_DDR	..\system\sys\sys.h	159;"	variable
+PC_DDR	..\system\sys\sys.h	163;"	variable
+PC_DDR	..\system\sys\sys.h	167;"	variable
+PC_DDR	..\system\sys\sys.h	171;"	variable
+PC_DDR	..\system\sys\sys.h	175;"	variable
+PC_DDR	..\system\sys\sys.h	179;"	variable
+PC_IDR	..\system\sys\sys.h	75;"	variable
+PC_IDR	..\system\sys\sys.h	76;"	variable
+PC_IDR	..\system\sys\sys.h	77;"	variable
+PC_IDR	..\system\sys\sys.h	78;"	variable
+PC_IDR	..\system\sys\sys.h	79;"	variable
+PC_IDR	..\system\sys\sys.h	80;"	variable
+PC_IDR	..\system\sys\sys.h	81;"	variable
+PC_IDR	..\system\sys\sys.h	82;"	variable
+PC_ODR	..\system\sys\sys.h	38;"	variable
+PC_ODR	..\system\sys\sys.h	39;"	variable
+PC_ODR	..\system\sys\sys.h	40;"	variable
+PC_ODR	..\system\sys\sys.h	41;"	variable
+PC_ODR	..\system\sys\sys.h	42;"	variable
+PC_ODR	..\system\sys\sys.h	43;"	variable
+PC_ODR	..\system\sys\sys.h	44;"	variable
+PC_ODR	..\system\sys\sys.h	45;"	variable
+PD_CR1	..\system\sys\sys.h	185;"	variable
+PD_CR1	..\system\sys\sys.h	189;"	variable
+PD_CR1	..\system\sys\sys.h	193;"	variable
+PD_CR1	..\system\sys\sys.h	197;"	variable
+PD_CR1	..\system\sys\sys.h	201;"	variable
+PD_CR1	..\system\sys\sys.h	205;"	variable
+PD_CR1	..\system\sys\sys.h	209;"	variable
+PD_CR2	..\system\sys\sys.h	186;"	variable
+PD_CR2	..\system\sys\sys.h	190;"	variable
+PD_CR2	..\system\sys\sys.h	194;"	variable
+PD_CR2	..\system\sys\sys.h	198;"	variable
+PD_CR2	..\system\sys\sys.h	202;"	variable
+PD_CR2	..\system\sys\sys.h	206;"	variable
+PD_CR2	..\system\sys\sys.h	210;"	variable
+PD_DDR	..\system\sys\sys.h	184;"	variable
+PD_DDR	..\system\sys\sys.h	188;"	variable
+PD_DDR	..\system\sys\sys.h	192;"	variable
+PD_DDR	..\system\sys\sys.h	196;"	variable
+PD_DDR	..\system\sys\sys.h	200;"	variable
+PD_DDR	..\system\sys\sys.h	204;"	variable
+PD_DDR	..\system\sys\sys.h	208;"	variable
+PD_IDR	..\system\sys\sys.h	84;"	variable
+PD_IDR	..\system\sys\sys.h	85;"	variable
+PD_IDR	..\system\sys\sys.h	86;"	variable
+PD_IDR	..\system\sys\sys.h	87;"	variable
+PD_IDR	..\system\sys\sys.h	88;"	variable
+PD_IDR	..\system\sys\sys.h	89;"	variable
+PD_IDR	..\system\sys\sys.h	90;"	variable
+PD_IDR	..\system\sys\sys.h	91;"	variable
+PD_IRQHandler	main.c	117;"	function	signature:(void)
+PD_IRQHandler	stm8_interrupt_vector.c	22;"	prototype	file:	signature:(void)
+PD_Lock	main.c	18;"	variable
+PD_ODR	..\system\sys\sys.h	47;"	variable
+PD_ODR	..\system\sys\sys.h	48;"	variable
+PD_ODR	..\system\sys\sys.h	49;"	variable
+PD_ODR	..\system\sys\sys.h	50;"	variable
+PD_ODR	..\system\sys\sys.h	51;"	variable
+PD_ODR	..\system\sys\sys.h	52;"	variable
+PD_ODR	..\system\sys\sys.h	53;"	variable
+PD_ODR	..\system\sys\sys.h	54;"	variable
+PD_temp	main.c	17;"	variable
+RECEIVE	..\app\lt8900.h	6;"	macro
+SENDDATA	..\app\lt8900.h	7;"	macro
+SPI_CS_init	..\chip\inc\stm8_spi.h	9;"	prototype	signature:(void)
+SPI_CS_init	..\chip\src\stm8_spi.c	25;"	function	file:	signature:(void)
+SPI_ReadByte	..\chip\inc\stm8_spi.h	7;"	prototype	signature:(void)
+SPI_ReadByte	..\chip\src\stm8_spi.c	36;"	function	signature:(void)
+SPI_SendByte	..\chip\inc\stm8_spi.h	8;"	prototype	signature:(unsigned char spi_send_byte)
+SPI_SendByte	..\chip\src\stm8_spi.c	45;"	function	signature:(unsigned char spi_send_byte)
+SPI_init	..\chip\inc\stm8_spi.h	6;"	prototype	signature:(void)
+SPI_init	..\chip\src\stm8_spi.c	5;"	function	signature:(void)
+SS	..\chip\inc\stm8_spi.h	4;"	macro
+STANDBY	..\app\lt8900.h	5;"	macro
+STM8S103F	stm8s103f.h	12;"	macro
+System_Clock_init	..\system\sys\sys.c	3;"	function	signature:(void)
+System_Clock_init	..\system\sys\sys.h	18;"	prototype	signature:(void)
+System_Halt	main.c	15;"	macro	file:
+System_Run	main.c	14;"	macro	file:
+System_State	main.c	16;"	variable
+System_init	main.c	22;"	prototype	file:	signature:(void)
+System_init	main.c	70;"	function	signature:(void)
+TESTPA	..\app\lt8900.h	8;"	macro
+UART1_Init	..\chip\inc\stm8_uart.h	6;"	prototype	signature:(void)
+UART1_Init	..\chip\src\stm8_uart.c	19;"	function	signature:(void)
+UART1_SendChar	..\chip\inc\stm8_uart.h	7;"	prototype	signature:(unsigned char ch)
+UART1_SendChar	..\chip\src\stm8_uart.c	48;"	function	signature:(unsigned char ch)
+_LT8900_H_	..\app\lt8900.h	2;"	macro
+_STM8_SPI_H	..\chip\inc\stm8_spi.h	2;"	macro
+_STM8_UART_H	..\chip\inc\stm8_uart.h	2;"	macro
+_SYS_H	..\system\sys\sys.h	2;"	macro
+__DELAY_H	..\system\delay\delay.h	2;"	macro
+__MODS0__	d:\program files (x86)\cosmic\cxstm8\hstm8\mods0.h	11;"	macro
+__SIZE_T__	d:\program files (x86)\cosmic\cxstm8\hstm8\stdio.h	9;"	macro
+__STDIO__	d:\program files (x86)\cosmic\cxstm8\hstm8\stdio.h	6;"	macro
+__STM8S103F__	stm8s103f.h	6;"	macro
+_stext	stm8_interrupt_vector.c	20;"	prototype	file:
+_vectab	stm8_interrupt_vector.c	24;"	variable
+ascii	..\system\sys\sys.h	9;"	typedef
+bool	..\system\sys\sys.h	8;"	typedef
+delay_init	..\system\delay\delay.c	4;"	function	signature:(unsigned char clk)
+delay_init	..\system\delay\delay.h	5;"	prototype	signature:(unsigned char clk)
+delay_ms	..\system\delay\delay.c	31;"	function	signature:(unsigned int nms)
+delay_ms	..\system\delay\delay.h	7;"	prototype	signature:(unsigned int nms)
+delay_us	..\system\delay\delay.c	14;"	function	signature:(unsigned int nus)
+delay_us	..\system\delay\delay.h	6;"	prototype	signature:(unsigned int nus)
+fac_us	..\system\delay\delay.c	2;"	variable
+getchar	d:\program files (x86)\cosmic\cxstm8\hstm8\stdio.h	15;"	prototype	signature:(void)
+gets	d:\program files (x86)\cosmic\cxstm8\hstm8\stdio.h	16;"	prototype	signature:(char *s)
+interrupt_handler	stm8_interrupt_vector.c	9;"	member	struct:interrupt_vector	file:
+interrupt_handler_t	stm8_interrupt_vector.c	5;"	typedef	file:
+interrupt_instruction	stm8_interrupt_vector.c	8;"	member	struct:interrupt_vector	file:
+interrupt_vector	stm8_interrupt_vector.c	7;"	struct	file:
+main	main.c	25;"	function
+printf	d:\program files (x86)\cosmic\cxstm8\hstm8\stdio.h	17;"	prototype	signature:(char *format, ...)
+putchar	..\chip\inc\stm8_uart.h	9;"	prototype	signature:(char ch)
+putchar	..\chip\src\stm8_uart.c	54;"	function	signature:(char ch)
+putchar	d:\program files (x86)\cosmic\cxstm8\hstm8\stdio.h	18;"	prototype	signature:(char c)
+puts	d:\program files (x86)\cosmic\cxstm8\hstm8\stdio.h	19;"	prototype	signature:(char *s)
+s16	..\system\sys\sys.h	13;"	typedef
+s32	..\system\sys\sys.h	15;"	typedef
+s8	..\system\sys\sys.h	11;"	typedef
+scanf	d:\program files (x86)\cosmic\cxstm8\hstm8\stdio.h	20;"	prototype	signature:(char *format, ...)
+size_t	d:\program files (x86)\cosmic\cxstm8\hstm8\stdio.h	10;"	typedef
+sprintf	d:\program files (x86)\cosmic\cxstm8\hstm8\stdio.h	22;"	prototype	signature:(char *s, char *format, ...)
+sscanf	d:\program files (x86)\cosmic\cxstm8\hstm8\stdio.h	21;"	prototype	signature:(char *s, char *format, ...)
+u16	..\system\sys\sys.h	12;"	typedef
+u32	..\system\sys\sys.h	14;"	typedef
+u8	..\system\sys\sys.h	10;"	typedef
